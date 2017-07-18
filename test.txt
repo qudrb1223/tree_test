@@ -1,5 +1,5 @@
-﻿﻿EEE
-﻿FFF
+﻿GGG
+FFF
 EEE
 DDD
 CCC
